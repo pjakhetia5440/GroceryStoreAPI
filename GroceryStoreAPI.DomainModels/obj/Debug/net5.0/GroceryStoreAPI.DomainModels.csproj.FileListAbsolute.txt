@@ -1,0 +1,15 @@
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\GroceryStoreAPI.DomainModels.deps.json
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\GroceryStoreAPI.DomainModels.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\ref\GroceryStoreAPI.DomainModels.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\GroceryStoreAPI.DomainModels.pdb
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\GroceryStoreAPI.Entities.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\bin\Debug\net5.0\GroceryStoreAPI.Entities.pdb
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.csprojAssemblyReference.cache
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.AssemblyInfoInputs.cache
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.AssemblyInfo.cs
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.csproj.CoreCompileInputs.cache
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.csproj.CopyComplete
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\ref\GroceryStoreAPI.DomainModels.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.DomainModels\obj\Debug\net5.0\GroceryStoreAPI.DomainModels.pdb

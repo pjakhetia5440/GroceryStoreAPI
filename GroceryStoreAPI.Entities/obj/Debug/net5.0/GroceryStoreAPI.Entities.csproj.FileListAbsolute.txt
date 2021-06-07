@@ -1,0 +1,11 @@
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\bin\Debug\net5.0\GroceryStoreAPI.Entities.deps.json
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\bin\Debug\net5.0\GroceryStoreAPI.Entities.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\bin\Debug\net5.0\ref\GroceryStoreAPI.Entities.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\bin\Debug\net5.0\GroceryStoreAPI.Entities.pdb
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.AssemblyInfoInputs.cache
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.AssemblyInfo.cs
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\ref\GroceryStoreAPI.Entities.dll
+C:\Users\Prasoon\source\repos\GroceryStoreAPI\GroceryStoreAPI.Entities\obj\Debug\net5.0\GroceryStoreAPI.Entities.pdb
